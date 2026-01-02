@@ -39,7 +39,7 @@
 | [Arcadia Finance](https://arcadia.finance/) | Yield vaults | Renascence Labs | [📝](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf)
 | [MORE Markets](https://www.more.markets/) | Lending | Zenith | can't disclose |
 | VVET | Staking | Zenith | can't disclose |
-| [BeraChain](https://www.berachain.com/) | Staking | Zenith | [📝](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf), [📝](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) |
-| [Fiamma](https://www.fiammalabs.io/) | Bitcoin light client | Zenith | [📝](https://github.com/Renascence-Labs/portfolio/blob/main/reports/Arcadia%20-%20Renascence%20Audit%20Report.pdf) |
+| [BeraChain](https://www.berachain.com/) | Staking | Zenith | [📝](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20PoL%20v1.2%20-%20Zenith%20Audit%20Report.pdf), [📝](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20PoL%20v2%20-%20Zenith%20Audit%20Report.pdf) |
+| [Fiamma](https://www.fiammalabs.io/) | Bitcoin light client | Zenith | [📝](https://github.com/zenith-security/reports/blob/main/reports/Fiamma%20-%20Zenith%20Audit%20Report.pdf) |
 | Holograph | Cross-chain staking | Zenith | can’t disclose |
 | Angstrom L2 | UniV4 hook w/MEV protection | Zenith | can’t disclose |
