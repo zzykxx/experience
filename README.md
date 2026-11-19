@@ -1,4 +1,4 @@
-Curated collection of results of bug bounties, security competitions and private work regarding blockchain and smart contracts security.
+Curated collection of results from bug bounties, security competitions and private work in blockchain and smart contracts security.
 
 ## Public competitions
 
